@@ -4,4 +4,7 @@ Fatalities due to traffic delays of emergency vehicles such as ambulance & fire 
 In this problem, you will be working on classifying vehicle images as either belonging to the emergency vehicle or non-emergency vehicle category. For the same, you are provided with the train and the test dataset. Emergency vehicles usually includes police cars, ambulance and fire brigades.
 
 
+
+![alt text](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/08/Emgen.jpg)
+
 JanataHack: Computer Vision Hackathon
